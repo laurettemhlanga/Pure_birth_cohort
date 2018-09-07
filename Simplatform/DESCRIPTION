@@ -1,0 +1,10 @@
+Package: Simplatform
+Type: Package
+Title: Simulates an epidemic in a pure birth cohort 
+Version: 0.1.0
+Author: Laurette Mhlanga 
+Maintainer: <laurette@aims.ac.tz>
+Description: Simulates a birth cohort and estimates incidence based on Mahiane estimator 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
